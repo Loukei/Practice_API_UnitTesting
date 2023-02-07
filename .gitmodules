@@ -1,0 +1,6 @@
+[submodule "TodoApi"]
+	path = TodoApi
+	url = https://github.com/davidfowl/TodoApi.git
+[submodule "MinimalApi"]
+	path = MinimalApi
+	url = https://github.com/anuraj/MinimalApi.git
